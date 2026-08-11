@@ -104,7 +104,7 @@ showDateUpdated: true
 | 미야코지마 | SHI | 2시간 35분 | 313,700원~ |
 | 도쿄 하네다 | HND | 2시간 5분 | 315,228원~ |
 
-![도쿄 시부야 야경](pexels-wenchengphoto-6635794.jpg)
+![도쿄 시부야 야경](tokyo-shibuya.webp)
 
 ## 김포공항 출발 일본 직항 노선
 
@@ -135,7 +135,7 @@ showDateUpdated: true
 | 가고시마 | KOJ | 1시간 20분 | 293,000원~ |
 | 미야코지마 | SHI | 2시간 15분 | 300,200원~ |
 
-![오사카 신세카이 거리](pexels-axp-photography-500641970-16412233.jpg)
+![오사카 신세카이 거리](osaka-shinsekai.webp)
 
 ## 청주공항 출발 일본 직항 노선
 
