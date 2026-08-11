@@ -1,0 +1,41 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+[[main]]
+ name = "일본여행"
+ pageRef = "categories/일본여행"
+ weight = 10
+
+[[main]]
+ name = "물놀이"
+ pageRef = "categories/물놀이"
+ weight = 20
+
+# [[main]]
+#   name = "커피에 대한 이야기"
+#   pageRef = "posts/1752824163000-coffee"
+#   weight = 40
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+
+[[footer]]
+  name = "전체 글"
+  pageRef = "posts"
+  weight = 10
+
+# [[footer]]
+#   name = "Categories"
+#   pageRef = "categories"
+#   weight = 20
