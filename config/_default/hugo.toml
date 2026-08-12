@@ -19,9 +19,9 @@ enableEmoji = true
 # googleAnalytics = "G-XXXXXXXXX"
 
 ignoreFiles = [
-  "content/posts/한국에서-일본-가는-직항-노선-정리/.*\\.jpg$",
+  "content/posts/.*\\.jpg$",
+  "content/posts/.*\\.png$",
   "content/posts/한국에서-일본-가는-직항-노선-정리/osaka-night\\.webp$",
-  "content/posts/2026-금천구-무료-물놀이장-총정리/.*\\.png$"
 ]
 
 [pagination]
