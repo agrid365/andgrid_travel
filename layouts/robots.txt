@@ -1,0 +1,8 @@
+User-agent: *
+{{- if hugo.IsProduction | or (eq .Site.Params.env "production") }}
+Allow: /
+{{- else }}
+Disallow: /
+{{- end }}
+Sitemap: {{ "sitemap.xml" | absURL }}
+#DaumWebMasterTool:77a88e06b59eb4ee9130f2451f2e347a3147dacdfb74096fc1d3050f7c58c85c:kxUuZ51u4dvn/xJoBQayfw==
