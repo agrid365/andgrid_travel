@@ -1,12 +1,13 @@
 ---
-title: "일본 공항 날씨 바로가기｜간사이공항·나리타·후쿠오카 항공기상청 링크"
+title: "일본 공항 날씨 바로가기｜공항별 현재날씨·예보 확인"
 date: 2026-08-21T10:00:00+09:00
-lastmod: 2026-09-10T16:52:00+09:00
+lastmod: 2026-09-10T18:20:28+09:00
 draft: false
 description: "일본 간사이공항 날씨를 비롯해 나리타, 하네다, 후쿠오카, 삿포로 등 한국에서 직항으로 갈 수 있는 일본 공항의 항공기상청 날씨 바로가기를 정리합니다."
 categories: ["일본여행", "날씨"]
 tags: ["일본공항날씨", "간사이공항날씨", "항공기상청", "일본날씨", "일본여행준비", "일본공항"]
 showDateUpdated: true
+images: ["featured.webp", "kansai-airport-weather.webp", "jma-disaster-info.webp"]
 ---
 
 <style>
@@ -41,7 +42,7 @@ showDateUpdated: true
 
 > 이 글은 2026년 8월 21일 기준으로 항공기상청 공항날씨 페이지와 기존에 정리한 한국 출발 일본 직항 노선을 기준으로 작성했습니다. 실제 운항 여부와 지연·결항은 항공사와 공항 공식 운항정보에서 다시 확인해야 합니다.
 
-![일본 공항 날씨 바로가기](featured.webp)
+![바다 위에 조성된 간사이국제공항의 활주로와 터미널 전경](featured.webp)
 
 <span style="display:block;color:#94a3b8;font-size:0.82rem;margin-top:-6px;">이미지 출처: Wikimedia Commons, Ankou1192, CC BY-SA 4.0</span>
 
@@ -85,7 +86,7 @@ showDateUpdated: true
 
 | 일본 도착 공항 | 항공권 코드 | 항공기상청 코드 | 한국 출발공항 | 날씨 바로가기 |
 |---|---|---|---|---|
-| 오사카 간사이 | KIX | RJBB | 인천, 김포, 부산, 청주, 대구, 제주 | [간사이공항 날씨](https://amo.kma.go.kr/weather/airport.do?icaoCode=RJBB) |
+| 오사카 간사이 | KIX | RJBB | 인천, 김포, 부산, 청주, 대구, 제주 | [간사이공항 날씨](https://amo.kma.go.kr/weather/airport.do?icaoCode=RJBB)<br>[예보·운항정보 가이드 →](/posts/간사이공항-날씨-가이드/) |
 | 도쿄 나리타 | NRT | RJAA | 인천, 부산, 청주, 대구, 제주 | [나리타공항 날씨](https://amo.kma.go.kr/weather/airport.do?icaoCode=RJAA) |
 | 후쿠오카 | FUK | RJFF | 인천, 부산, 청주, 대구, 제주 | [후쿠오카공항 날씨](https://amo.kma.go.kr/weather/airport.do?icaoCode=RJFF) |
 | 나고야 주부 | NGO | RJGG | 인천, 김포, 부산, 청주 | [나고야공항 날씨](https://amo.kma.go.kr/weather/airport.do?icaoCode=RJGG) |
