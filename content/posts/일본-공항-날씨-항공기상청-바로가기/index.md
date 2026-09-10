@@ -1,13 +1,41 @@
 ---
 title: "일본 공항 날씨 바로가기｜간사이공항·나리타·후쿠오카 항공기상청 링크"
 date: 2026-08-21T10:00:00+09:00
-lastmod: 2026-08-21T10:00:00+09:00
+lastmod: 2026-09-10T16:52:00+09:00
 draft: false
 description: "일본 간사이공항 날씨를 비롯해 나리타, 하네다, 후쿠오카, 삿포로 등 한국에서 직항으로 갈 수 있는 일본 공항의 항공기상청 날씨 바로가기를 정리합니다."
 categories: ["일본여행", "날씨"]
 tags: ["일본공항날씨", "간사이공항날씨", "항공기상청", "일본날씨", "일본여행준비", "일본공항"]
 showDateUpdated: true
 ---
+
+<style>
+  .prose table a[href^="https://amo.kma.go.kr/weather/airport.do"] {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 44px;
+    padding: 8px 12px;
+    border: 1px solid #1d4ed8;
+    border-radius: 6px;
+    background: #1d4ed8;
+    color: #fff;
+    font-weight: 600;
+    line-height: 1.4;
+    text-align: center;
+    text-decoration: none;
+    box-shadow: none;
+  }
+  .prose table a[href^="https://amo.kma.go.kr/weather/airport.do"]:hover {
+    background: #1e40af;
+    border-color: #1e40af;
+    color: #fff;
+  }
+  .prose table a[href^="https://amo.kma.go.kr/weather/airport.do"]:focus-visible {
+    outline: 3px solid #60a5fa;
+    outline-offset: 3px;
+  }
+</style>
 
 일본 여행 전날이나 출국 당일에는 도시 날씨뿐 아니라 도착 공항의 날씨도 함께 확인하는 것이 좋습니다. 특히 `일본 간사이공항 날씨`, `나리타공항 날씨`, `후쿠오카공항 날씨`처럼 공항 기준으로 보면 풍속, 시정, 구름고도, 공항 예보를 같이 확인할 수 있습니다.
 
@@ -43,6 +71,13 @@ showDateUpdated: true
     <span style="color:#60a5fa;font-weight:900;">↗</span>
   </a>
 </div>
+
+공항 예보를 읽는 방법이나 도착 후 여행지 날씨가 궁금하다면 아래 가이드에서 이어서 확인하세요.
+
+<a href="/posts/간사이공항-날씨-가이드/" style="display:grid;grid-template-columns:minmax(0,1fr) 80px;gap:12px;align-items:center;border:1px solid #3b82f6;border-radius:8px;background:#111827;padding:12px;margin:16px 0;color:#60a5fa;text-decoration:underline;">
+  <strong style="min-width:0;line-height:1.5;font-size:1rem;overflow-wrap:anywhere;">간사이공항 날씨 가이드｜예보 읽는 법·운항정보·오사카·교토·고베 날씨</strong>
+  <img src="/posts/간사이공항-날씨-가이드/featured.webp" alt="간사이공항 제1터미널 출발층" loading="lazy" width="1200" height="900" style="display:block;width:100%;margin:0;aspect-ratio:4/3;object-fit:cover;border-radius:6px;">
+</a>
 
 ## 일본 주요 공항 날씨 빠른 정리
 

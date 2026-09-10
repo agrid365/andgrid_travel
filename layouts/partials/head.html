@@ -172,9 +172,11 @@
     {{- end -}}
   {{- end -}}
 
+  {{- if not .Params.images -}}
   {{- with $socialImage -}}
     <meta name="twitter:image" content="{{ .RelPermalink | absURL }}">
     <meta property="og:image" content="{{ .RelPermalink | absURL }}">
+  {{- end -}}
   {{- end -}}
 
   {{/* Schema */}}
