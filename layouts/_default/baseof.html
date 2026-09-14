@@ -36,8 +36,14 @@
     <div class="relative flex flex-col grow">
       <main id="main-content" class="grow">
         {{ block "main" . }}{{ end }}
-        {{ if and (.Site.Params.footer.showScrollToTop | default true) (gt .WordCount 1) }}
-          {{- partial "scroll-to-top.html" . -}}
+        {{ if .Site.Params.enableSearch | default false }}
+          <button
+            id="search-button-floating"
+            type="button"
+            aria-label="{{ i18n "search.open_button_title" }}"
+            title="{{ i18n "search.open_button_title" }}">
+            {{ partial "icon.html" "search" }}
+          </button>
         {{ end }}
       </main>
       {{- partial "footer.html" . -}}

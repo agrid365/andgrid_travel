@@ -12,7 +12,7 @@
   {{ with .Site.Language.Params.htmlCode | default .Site.LanguageCode }}
     <meta http-equiv="content-language" content="{{ . }}">
   {{ end }}
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <meta name="theme-color">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3468174357960597"
@@ -92,7 +92,8 @@
   {{ if .Site.Params.enableSearch | default false }}
     {{ $jsFuse := resources.Get "lib/fuse/fuse.min.js" }}
     {{ $jsSearch := resources.Get "js/search.js" }}
-    {{ $assets.Add "js" (slice $jsFuse $jsSearch) }}
+    {{ $jsSearchAnalytics := resources.Get "js/search-analytics.js" }}
+    {{ $assets.Add "js" (slice $jsFuse $jsSearch $jsSearchAnalytics) }}
   {{ end }}
   {{ if .Site.Params.enableCodeCopy | default false }}
     {{ $jsCode := resources.Get "js/code.js" }}

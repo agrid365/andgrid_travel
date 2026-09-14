@@ -1,7 +1,7 @@
 ---
 title: "간사이공항 날씨 가이드｜오사카·교토·고베 예보와 운항정보"
 date: 2026-09-10T14:40:00+09:00
-lastmod: 2026-09-10T16:52:00+09:00
+lastmod: 2026-09-12T15:21:12+09:00
 draft: false
 showDateUpdated: true
 description: "항공기상청에서 간사이공항 현재날씨·풍속·예보를 보는 방법을 정리했습니다. 지연·결항 운항정보와 오사카·교토·고베 지역 예보, 비 오는 날 교통편과 준비물도 살펴봅니다."
@@ -9,7 +9,7 @@ summary: "간사이공항 날씨와 실제 운항 여부는 어디서 확인할�
 categories: ["일본여행", "날씨"]
 tags: ["간사이공항날씨", "오사카날씨", "교토날씨", "고베날씨", "항공기상청", "일본여행준비"]
 keywords: ["간사이공항 현재날씨", "간사이공항 풍속", "간사이공항 결항", "오사카 여행 날씨"]
-images: ["featured.webp", "osaka.webp", "kyoto.webp", "kobe.webp"]
+images: ["featured.webp"]
 affiliateDisclosure: "이 콘텐츠에는 수수료를 지급받는 제휴링크가 포함되어 있습니다."
 ---
 
@@ -51,7 +51,7 @@ affiliateDisclosure: "이 콘텐츠에는 수수료를 지급받는 제휴링크
 
 링크와 화면 구성은 **2026년 9월 10일** 기준입니다. 실시간 기온과 운항 상태는 이 글이 아닌 각 공식 페이지에서 확인하세요.
 
-![간사이국제공항 제1터미널 출발층의 체크인 카운터와 안내 구역](featured.webp)
+![간사이국제공항 제1터미널 출발층의 체크인 카운터와 안내 구역](kansai-terminal.webp)
 
 <small>간사이공항 제1터미널 출발층 · <a href="#photo-credits">사진: Fotointheworld</a></small>
 
@@ -233,6 +233,7 @@ UTC 표시가 있는지 확인하세요. UTC에는 9시간을 더하면 한국·
 
 지역·시설 소개용 사진으로, 현재 날씨나 운항 상태와는 다릅니다. 게재를 위해 크기·파일 형식을 변경했습니다.
 
+- **대표 이미지:** andgrid 제작 · AI 생성 일러스트이며 실제 공항 사진이 아닙니다.
 - **간사이공항:** [Fotointheworld](https://commons.wikimedia.org/wiki/File:Kansai_Airport_Terminal_1_Departure_2025.JPG) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - **하루카:** [Sui-setz](https://commons.wikimedia.org/wiki/File:JR_West_281_Haruka.jpg) · 퍼블릭 도메인
 - **교토 골목:** [Tom Maisey](https://commons.wikimedia.org/wiki/File:Rainy_street,_Kyoto_(16683855248).jpg) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)

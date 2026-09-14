@@ -1,6 +1,7 @@
 var fuse;
 var showButton = document.getElementById("search-button");
 var showButtonMobile = document.getElementById("search-button-mobile");
+var showButtonFloating = document.getElementById("search-button-floating");
 var hideButton = document.getElementById("close-search-button");
 var wrapper = document.getElementById("search-wrapper");
 var modal = document.getElementById("search-modal");
@@ -15,6 +16,7 @@ var hasResults = false;
 // Listen for events
 showButton ? showButton.addEventListener("click", displaySearch) : null;
 showButtonMobile ? showButtonMobile.addEventListener("click", displaySearch) : null;
+showButtonFloating ? showButtonFloating.addEventListener("click", displaySearch) : null;
 hideButton.addEventListener("click", hideSearch);
 wrapper.addEventListener("click", hideSearch);
 modal.addEventListener("click", function (event) {
@@ -83,12 +85,19 @@ document.addEventListener("keydown", function (event) {
 
 // Update search on each keypress
 input.onkeyup = function (event) {
+  if (!indexed) return;
   executeQuery(this.value);
 };
+input.addEventListener("input", function () {
+  if (!indexed) return;
+  executeQuery(this.value);
+});
 
 function displaySearch() {
   if (!indexed) {
-    buildIndex();
+    buildIndex(function () {
+      if (input.value) executeQuery(input.value);
+    });
   }
   if (!searchVisible) {
     document.body.style.overflow = "hidden";
@@ -123,7 +132,7 @@ function fetchJSON(path, callback) {
   httpRequest.send();
 }
 
-function buildIndex() {
+function buildIndex(callback) {
   var baseURL = wrapper.getAttribute("data-url");
   baseURL = baseURL.replace(/\/?$/, "/");
   fetchJSON(baseURL + "index.json", function (data) {
@@ -147,10 +156,12 @@ function buildIndex() {
     }*/
     fuse = new Fuse(data, options);
     indexed = true;
+    if (callback) callback();
   });
 }
 
 function executeQuery(term) {
+  if (!fuse) return;
   let results = fuse.search(term);
   let resultsHTML = "";
 

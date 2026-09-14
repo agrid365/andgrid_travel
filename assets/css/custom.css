@@ -1,0 +1,65 @@
+#search-button,
+#search-button-mobile,
+#search-button-floating {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.3rem 0.55rem;
+  border: 1px solid rgb(var(--color-primary-500));
+  border-radius: 0.375rem;
+  color: rgb(var(--color-primary-600));
+  background: rgba(var(--color-primary-500), 0.08);
+  font-size: 0.875rem;
+  font-weight: 600;
+  line-height: 1.25rem;
+}
+
+#search-button::after,
+#search-button-mobile::after {
+  content: "검색";
+}
+
+.dark #search-button,
+.dark #search-button-mobile,
+.dark #search-button-floating {
+  color: rgb(var(--color-primary-400));
+  background: rgba(var(--color-primary-500), 0.12);
+}
+
+#search-button-floating {
+  position: fixed;
+  right: 1.5rem;
+  bottom: 9rem;
+  z-index: 40;
+  width: 3rem;
+  height: 3rem;
+  justify-content: center;
+  padding: 0;
+  border-radius: 9999px;
+  box-shadow: 0 10px 24px rgba(15, 23, 42, 0.18);
+}
+
+#search-button-floating:hover {
+  color: rgb(var(--color-primary-700));
+  background: rgba(var(--color-primary-500), 0.16);
+}
+
+#search-result-status {
+  min-height: 1.5rem;
+  margin: 0 0.25rem 0.5rem;
+  color: rgb(var(--color-neutral-500));
+  font-size: 0.875rem;
+}
+
+@media (max-width: 380px) {
+  #search-button-mobile::after {
+    display: none;
+  }
+}
+
+@media (max-width: 640px) {
+  #search-button-floating {
+    right: 1rem;
+    bottom: 8.5rem;
+  }
+}

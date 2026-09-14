@@ -77,7 +77,7 @@ images: ["featured.webp", "kansai-airport-weather.webp", "jma-disaster-info.webp
 
 <a href="/posts/간사이공항-날씨-가이드/" style="display:grid;grid-template-columns:minmax(0,1fr) 80px;gap:12px;align-items:center;border:1px solid #3b82f6;border-radius:8px;background:#111827;padding:12px;margin:16px 0;color:#60a5fa;text-decoration:underline;">
   <strong style="min-width:0;line-height:1.5;font-size:1rem;overflow-wrap:anywhere;">간사이공항 날씨 가이드｜예보 읽는 법·운항정보·오사카·교토·고베 날씨</strong>
-  <img src="/posts/간사이공항-날씨-가이드/featured.webp" alt="간사이공항 제1터미널 출발층" loading="lazy" width="1200" height="900" style="display:block;width:100%;margin:0;aspect-ratio:4/3;object-fit:cover;border-radius:6px;">
+  <img src="/posts/간사이공항-날씨-가이드/featured.webp" alt="간사이공항 날씨 가이드: 비행기와 날씨를 표현한 일러스트" loading="lazy" width="1536" height="1024" style="display:block;width:100%;margin:0;aspect-ratio:4/3;object-fit:cover;border-radius:6px;">
 </a>
 
 ## 일본 주요 공항 날씨 빠른 정리
