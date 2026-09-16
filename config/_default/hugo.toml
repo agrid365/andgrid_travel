@@ -21,6 +21,8 @@ enableEmoji = true
 ignoreFiles = [
   "content/posts/.*\\.jpg$",
   "content/posts/.*\\.png$",
+  "static/posts/속초-만석닭강정-구매-가이드/.*\\.jpg$",
+  "static/posts/속초-만석닭강정-구매-가이드/.*\\.png$",
   "content/posts/한국에서-일본-가는-직항-노선-정리/osaka-night\\.webp$",
 ]
 

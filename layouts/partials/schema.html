@@ -56,4 +56,24 @@
     "wordCount": "{{ .WordCount }}"
   }]
   </script>
+  {{ with .Params.carousel }}
+    {{- $page := $ -}}
+    {{- $items := slice -}}
+    {{- range $index, $entry := . -}}
+      {{- $image := $entry.image -}}
+      {{- with $page.Resources.GetMatch $entry.image -}}
+        {{- $image = .Permalink -}}
+      {{- else -}}
+        {{- if not (or (strings.HasPrefix $image "http://") (strings.HasPrefix $image "https://")) -}}
+          {{- $image = absURL $image -}}
+        {{- end -}}
+      {{- end -}}
+      {{- $url := $entry.url | default $page.Permalink -}}
+      {{- if not (or (strings.HasPrefix $url "http://") (strings.HasPrefix $url "https://")) -}}
+        {{- $url = absURL $url -}}
+      {{- end -}}
+      {{- $items = $items | append (dict "@type" "ListItem" "name" $entry.name "image" $image "url" $url "position" (add $index 1)) -}}
+    {{- end -}}
+    {{- dict "@context" "https://schema.org" "@type" "ItemList" "itemListElement" $items | jsonify | printf "<script type=\"application/ld+json\">%s</script>" | safeHTML -}}
+  {{ end }}
 {{ end }}

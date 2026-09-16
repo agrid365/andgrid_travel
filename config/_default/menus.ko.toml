@@ -11,14 +11,19 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+ name = "국내여행"
+ pageRef = "categories/국내여행"
+ weight = 10
+
+[[main]]
  name = "일본여행"
  pageRef = "categories/일본여행"
- weight = 10
+ weight = 20
 
 [[main]]
  name = "물놀이"
  pageRef = "categories/물놀이"
- weight = 20
+ weight = 30
 
 # [[main]]
 #   name = "커피에 대한 이야기"

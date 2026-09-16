@@ -9,12 +9,20 @@
       {{- $images := $.Resources.ByType "image" -}}
       {{- $featured := $images.GetMatch "*feature*" -}}
       {{- if not $featured }}{{ $featured = $images.GetMatch "{*cover*,*thumbnail*}" }}{{ end -}}
+      {{- $featuredURL := "" -}}
       {{ if and .Params.featureimage (not $featured) }}
       {{- $url:= .Params.featureimage -}}
+      {{- if or (strings.HasPrefix $url "http:") (strings.HasPrefix $url "https:") -}}
       {{ $featured = resources.GetRemote $url }}
+      {{- else -}}
+      {{ $featuredURL = $url }}
+      {{- end -}}
       {{ end }}
       {{- if not $featured }}{{ with .Site.Params.defaultFeaturedImage }}{{ $featured = resources.Get . }}{{ end }}{{ end -}}
       {{ if .Params.hideFeatureImage }}{{ $featured = false }}{{ end }}
+      {{- if $featuredURL -}}
+      <div class="w-full thumbnail_card nozoom" style="background-image:url({{ $featuredURL }});"></div>
+      {{- else -}}
       {{- with $featured -}}
       {{ if or $disableImageOptimization (strings.HasSuffix $featured ".svg")}}
         {{ with . }}
@@ -25,6 +33,7 @@
         <div class="w-full thumbnail_card nozoom" style="background-image:url({{ .RelPermalink }});"></div>
         {{ end }}
       {{ end }}
+      {{- end -}}
       {{- end -}}
 
     {{ if and .Draft .Site.Params.article.showDraftLabel }}
