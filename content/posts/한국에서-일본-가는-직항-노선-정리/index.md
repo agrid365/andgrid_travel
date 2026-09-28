@@ -202,6 +202,13 @@ showDateUpdated: true
 
 오사카로 들어간다면 간사이공항에서 난바로 이동하는 방법을 함께 확인하는 것이 좋습니다. 도쿄는 나리타와 하네다의 시내 접근성이 다르므로 숙소 위치와 같이 비교해야 합니다.
 
+<a href="/posts/도쿄-지하철-노선도-한글-pdf-다운로드/" style="display:grid;grid-template-columns:minmax(0,1fr) 150px;gap:12px;align-items:center;overflow:hidden;border:1px solid #3b82f6;border-radius:8px;background:#111827;padding:10px 12px;margin:16px 0;color:#f9fafb;text-decoration:none;">
+  <span>
+    <strong style="display:block;color:#60a5fa;line-height:1.35;font-size:1rem;text-decoration:underline;">도쿄 지하철 노선도 2026 한글 PDF 다운로드｜JR 포함 한국어 노선도 보는 법</strong>
+  </span>
+  <img src="/posts/도쿄-지하철-노선도-한글-pdf-다운로드/featured.webp" alt="도쿄 지하철 노선도 2026 한글 PDF 다운로드" style="display:block;width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:6px;">
+</a>
+
 ## 항공권 예약 전 확인할 것
 
 - 실제 운항 요일과 출발 시간을 확인합니다.

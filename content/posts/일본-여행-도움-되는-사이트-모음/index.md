@@ -88,6 +88,13 @@ showDateUpdated: true
 
 도쿄처럼 지하철 회사가 여러 개 섞인 지역에서는 같은 목적지라도 요금과 환승 횟수가 달라집니다. 빠른 경로만 보지 말고 환승 횟수, 도보 이동, 막차 시간을 같이 확인하는 것이 좋습니다.
 
+<a href="/posts/도쿄-지하철-노선도-한글-pdf-다운로드/" style="display:grid;grid-template-columns:minmax(0,1fr) 150px;gap:12px;align-items:center;overflow:hidden;border:1px solid #3b82f6;border-radius:8px;background:#111827;padding:10px 12px;margin:16px 0;color:#f9fafb;text-decoration:none;">
+  <span>
+    <strong style="display:block;color:#60a5fa;line-height:1.35;font-size:1rem;text-decoration:underline;">도쿄 지하철 노선도 2026 한글 PDF 다운로드｜JR 포함 한국어 노선도 보는 법</strong>
+  </span>
+  <img src="/posts/도쿄-지하철-노선도-한글-pdf-다운로드/featured.webp" alt="도쿄 지하철 노선도 2026 한글 PDF 다운로드" style="display:block;width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:6px;">
+</a>
+
 ## 5. Japan Travel by NAVITIME
 
 `Japan Travel by NAVITIME`은 여행 중 이동 경로와 주변 정보를 함께 확인할 때 활용할 수 있는 서비스입니다. 열차·도보 이동을 포함한 경로를 보고, 관광 일정 계획이나 주변 시설 확인에 참고할 수 있습니다.

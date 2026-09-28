@@ -107,6 +107,13 @@ showDateUpdated: true
 
 경로를 확인할 때는 통로 중앙을 벗어나 벽이나 기둥 쪽으로 이동합니다. 특히 도쿄역, 신주쿠역, 시부야역처럼 노선과 출구가 많은 역에서는 출구 번호를 먼저 확인해야 빠릅니다. “동쪽 출구”처럼 큰 방향만 보고 움직이면 같은 역 안에서도 꽤 멀리 돌아갑니다.
 
+<a href="/posts/도쿄-지하철-노선도-한글-pdf-다운로드/" style="display:grid;grid-template-columns:minmax(0,1fr) 150px;gap:12px;align-items:center;overflow:hidden;border:1px solid #3b82f6;border-radius:8px;background:#111827;padding:10px 12px;margin:16px 0;color:#f9fafb;text-decoration:none;">
+  <span>
+    <strong style="display:block;color:#60a5fa;line-height:1.35;font-size:1rem;text-decoration:underline;">도쿄 지하철 노선도 2026 한글 PDF 다운로드｜JR 포함 한국어 노선도 보는 법</strong>
+  </span>
+  <img src="/posts/도쿄-지하철-노선도-한글-pdf-다운로드/featured.webp" alt="도쿄 지하철 노선도 2026 한글 PDF 다운로드" style="display:block;width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:6px;">
+</a>
+
 승강장에서는 바닥에 표시된 승차 위치에 줄을 서고, 내리는 승객이 모두 내린 다음 탑승합니다.
 
 열차를 놓칠 것 같더라도 승강장에서 뛰거나 닫히는 문에 몸과 짐을 넣는 행동은 피해야 합니다.

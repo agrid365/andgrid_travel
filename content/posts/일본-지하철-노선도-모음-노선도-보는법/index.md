@@ -120,6 +120,13 @@ IC카드를 쓰더라도 운영 회사가 바뀌면 요금 체계가 달라질 �
 
 도쿄에서는 `도쿄메트로만 탈 수 있는 패스인지`, `도에이까지 포함되는지`, `JR은 별도인지`를 구분해야 합니다. 같은 목적지라도 어떤 노선을 쓰느냐에 따라 요금과 환승 횟수가 달라질 수 있습니다.
 
+<a href="/posts/도쿄-지하철-노선도-한글-pdf-다운로드/" style="display:grid;grid-template-columns:minmax(0,1fr) 150px;gap:12px;align-items:center;overflow:hidden;border:1px solid #3b82f6;border-radius:8px;background:#111827;padding:10px 12px;margin:16px 0;color:#f9fafb;text-decoration:none;">
+  <span>
+    <strong style="display:block;color:#60a5fa;line-height:1.35;font-size:1rem;text-decoration:underline;">도쿄 지하철 노선도 2026 한글 PDF 다운로드｜JR 포함 한국어 노선도 보는 법</strong>
+  </span>
+  <img src="/posts/도쿄-지하철-노선도-한글-pdf-다운로드/featured.webp" alt="도쿄 지하철 노선도 2026 한글 PDF 다운로드" style="display:block;width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:6px;">
+</a>
+
 ## 오사카 지하철 노선도 보는 법
 
 오사카는 여행자 기준으로 미도스지선을 중심으로 보면 이해하기 쉽습니다. 신오사카, 우메다, 신사이바시, 난바, 덴노지가 한 줄로 이어지기 때문입니다.

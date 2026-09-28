@@ -63,3 +63,10 @@
     bottom: 8.5rem;
   }
 }
+
+@media (min-width: 1024px) {
+  #single_header,
+  .article-content {
+    max-width: 86ch;
+  }
+}
