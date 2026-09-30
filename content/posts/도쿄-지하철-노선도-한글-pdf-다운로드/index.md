@@ -1,12 +1,32 @@
 ---
 title: "도쿄 지하철 노선도 2026 한글 PDF 다운로드｜JR 포함 한국어 노선도 보는 법"
 date: 2026-09-27T10:30:00+09:00
-lastmod: 2026-09-30T10:54:34+09:00
+lastmod: 2026-09-30T12:10:00+09:00
 draft: false
 description: "2026년 도쿄 지하철 노선도 한글 PDF 다운로드 링크와 영어판 PDF, JR 포함 노선도 차이, 도쿄메트로·도에이 환승 보는 법을 정리합니다."
 categories: ["일본여행", "교통"]
 tags: ["도쿄지하철노선도", "도쿄지하철노선도2026", "도쿄지하철노선도한글", "도쿄지하철노선도한국어", "도쿄지하철노선도다운로드", "도쿄지하철노선도PDF", "도쿄지하철노선도JR", "도쿄교통", "일본지하철노선도"]
 showDateUpdated: true
+images:
+  - featured.webp
+  - tokyo-subway-metro-toei.webp
+  - tokyo-subway-station-number.webp
+  - tokyo-yamanote-platform-train.webp
+  - tokyo-subway-route-check.webp
+  - tokyo-subway-platform-staff.webp
+carousel:
+  - name: "도쿄 지하철 노선도 2026 한글 PDF"
+    image: "featured.webp"
+  - name: "도쿄메트로와 도에이 지하철 차이"
+    image: "tokyo-subway-metro-toei.webp"
+  - name: "도쿄 지하철 역 번호 보는 법"
+    image: "tokyo-subway-station-number.webp"
+  - name: "도쿄 지하철과 JR 야마노테선 차이"
+    image: "tokyo-yamanote-platform-train.webp"
+  - name: "도쿄 지하철 이동 경로 확인"
+    image: "tokyo-subway-route-check.webp"
+  - name: "도쿄 지하철 플랫폼 이용 팁"
+    image: "tokyo-subway-platform-staff.webp"
 ---
 
 도쿄 지하철 노선도는 처음 보면 선이 많아서 복잡해 보입니다. 그래도 여행자가 먼저 볼 부분은 생각보다 단순합니다. `도쿄메트로`, `도에이 지하철`, `JR`, `사철`이 서로 다르다는 점을 구분하고, 노선 색깔과 역 번호를 같이 보면 훨씬 쉽게 읽을 수 있습니다.
