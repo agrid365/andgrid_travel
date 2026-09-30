@@ -265,7 +265,7 @@ showDateUpdated: true
 
 - [인천국제공항 항공통계](https://www.airport.kr/co_ko/651/subview.do?enc=Zm5jdDF8QEB8JTJGZnNtRnNuJTJGY29fa28lMkZzdGF0aXN0aWNDYXRlZ29yeU9mQWlybGluZS5kbyUzRg%3D%3D): 인천공항 운항·노선 통계 확인
 - [한국공항공사 항공통계](https://www.airport.co.kr/www/cms/frFlightStatsCon/internationalRegionStats.do?MENU_ID=1250): 김포, 김해, 제주, 청주, 대구 등 인천 외 공항 국제선 통계 확인
-- [Visit Japan Web 공식 안내](https://www.digital.go.jp/policies/visit_japan_web): 일본 입국심사·세관신고 사전 등록 서비스 안내
+- [Visit Japan Web 공식 안내](https://services.digital.go.jp/ko/visit-japan-web/): 일본 입국심사·세관신고 사전 등록 서비스 안내
 - [JNTO Travel Japan](https://www.japan.travel/): 일본정부관광국 공식 여행 정보
 
 <script>

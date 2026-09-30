@@ -164,7 +164,7 @@ showDateUpdated: true
 ## 참고 자료
 
 <div style="border:1px solid #374151;border-radius:8px;background:#111827;margin:18px 0;overflow:hidden;">
-  <a href="https://www.vjw.digital.go.jp/" target="_blank" rel="noopener noreferrer" style="display:grid;grid-template-columns:1fr auto;gap:12px;padding:14px 16px;border-bottom:1px solid #374151;color:#f9fafb;text-decoration:none;">
+  <a href="https://services.digital.go.jp/ko/visit-japan-web/" target="_blank" rel="noopener noreferrer" style="display:grid;grid-template-columns:1fr auto;gap:12px;padding:14px 16px;border-bottom:1px solid #374151;color:#f9fafb;text-decoration:none;">
     <span>
       <strong style="display:block;color:#f9fafb;">Visit Japan Web</strong>
       <span style="display:block;color:#cbd5e1;margin-top:6px;font-size:0.92rem;">입국심사와 세관신고 사전 등록</span>

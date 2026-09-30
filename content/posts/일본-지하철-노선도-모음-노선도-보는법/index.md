@@ -35,7 +35,7 @@ showDateUpdated: true
 | 고베 | 고베 시영 지하철 | 2개 | [고베 지하철 노선도](https://kotsu.city.kobe.lg.jp/korean/kr-subway-map/) |
 | 교토 | 교토 시영 지하철 | 2개 | [교토 교통 가이드](https://www.westjr.co.jp/global/kr/ticket/pass/kansai/kyoto_guide.html) |
 | 요코하마 | 요코하마 시영 지하철 | 2개 | [요코하마 블루라인 참고](https://ko.wikipedia.org/wiki/%EC%9A%94%EC%BD%94%ED%95%98%EB%A7%88_%EC%8B%9C%EC%98%81_%EC%A7%80%ED%95%98%EC%B2%A0_%EB%B8%94%EB%A3%A8_%EB%9D%BC%EC%9D%B8) |
-| 센다이 | 센다이 시영 지하철 | 2개 | [센다이 지하철 안내](https://www.jametro.or.jp/ko/japan/sendai.html) |
+| 센다이 | 센다이 시영 지하철 | 2개 | [센다이 지하철 안내](https://www.kotsu.city.sendai.jp/subway/) |
 | 히로시마 | 히로시마 전철 | 노면전차 | [히로시마 2차 교통 안내](https://dive-hiroshima.com/kr/information/secondary-transport/) |
 | 기타큐슈 | 기타큐슈 모노레일 | 1개 | [기타큐슈 모노레일](https://www.kitakyushu-monorail.co.jp/korean/) |
 

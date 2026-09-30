@@ -1,7 +1,7 @@
 ---
 title: "도쿄 지하철 노선도 2026 한글 PDF 다운로드｜JR 포함 한국어 노선도 보는 법"
 date: 2026-09-27T10:30:00+09:00
-lastmod: 2026-09-27T10:30:00+09:00
+lastmod: 2026-09-30T10:54:34+09:00
 draft: false
 description: "2026년 도쿄 지하철 노선도 한글 PDF 다운로드 링크와 영어판 PDF, JR 포함 노선도 차이, 도쿄메트로·도에이 환승 보는 법을 정리합니다."
 categories: ["일본여행", "교통"]
@@ -46,7 +46,7 @@ PDF가 바로 열리지 않거나 최신 자료인지 확인하고 싶다면 도
 
 노선과 환승 경로를 직접 검색하고 싶다면 도쿄메트로와 도쿄도 교통국 홈페이지를 함께 보면 됩니다. 도쿄메트로는 지하철 노선도, 역 정보, 운임·환승 검색을 확인하기 좋고, 도쿄도 교통국은 도에이 지하철과 도에이 교통 정보를 볼 때 유용합니다.
 
-![도쿄 지하철 플랫폼과 열차](도교지하철-도쿄지하철-도쿄.webp)
+![도쿄 지하철 플랫폼과 열차](tokyo-subway-platform-train.webp)
 
 <div style="border:1px solid #374151;border-radius:8px;background:#111827;margin:18px 0;overflow:hidden;">
   <a href="https://www.tokyometro.jp/kr/index.html" target="_blank" rel="noopener noreferrer" style="display:grid;grid-template-columns:1fr auto;gap:12px;padding:14px 16px;border-bottom:1px solid #374151;color:#f9fafb;text-decoration:none;">
@@ -105,7 +105,7 @@ PDF가 바로 열리지 않거나 최신 자료인지 확인하고 싶다면 도
   </a>
 </div>
 
-![도쿄 JR 야마노테선 플랫폼과 열차](도교지하철-도쿄지하철-도쿄_6.webp)
+![도쿄 JR 야마노테선 플랫폼과 열차](tokyo-yamanote-platform-train.webp)
 
 ## 도쿄 지하철 노선도 보는 법
 
@@ -150,7 +150,7 @@ PDF는 저장해두기 좋지만, 실제 이동 중에는 앱이나 지도 서�
 
 앱만 믿고 이동하면 전체 구조가 머리에 잘 들어오지 않을 수 있습니다. 반대로 PDF만 보고 이동하면 실제 환승 시간이나 출구 위치를 놓칠 수 있습니다. 여행 전에는 PDF로 구조를 보고, 이동 직전에는 앱으로 경로를 확인하는 방식이 가장 안정적입니다.
 
-![도쿄 지하철 차내에서 이동 경로를 확인하는 모습](도교지하철-도쿄지하철-도쿄_1.webp)
+![도쿄 지하철 차내에서 이동 경로를 확인하는 모습](tokyo-subway-route-check.webp)
 
 ## 고화질 노선도는 공식 PDF로 보는 게 안전하다
 
@@ -160,7 +160,7 @@ PDF는 저장해두기 좋지만, 실제 이동 중에는 앱이나 지도 서�
 
 도쿄 여행 전에는 공식 사이트에서 제공 중인 노선도와 PDF를 기준으로 저장해두면 됩니다.
 
-![도쿄 지하철 열차 창문과 차내 모습](도교지하철-도쿄지하철-도쿄_5.webp)
+![도쿄 지하철 열차 창문과 차내 모습](tokyo-subway-car-window.webp)
 
 ## 도쿄 주요 지역은 어떤 역을 보면 좋을까
 
@@ -179,7 +179,7 @@ PDF는 저장해두기 좋지만, 실제 이동 중에는 앱이나 지도 서�
 
 이 표는 이후 별도 글로 더 자세히 나눌 수 있습니다. 실제 여행에서는 `가장 가까운 역`보다 `내 숙소에서 환승이 적은 역`이 더 편할 때도 있습니다.
 
-![도쿄 도심 철도와 도시 이동](도교지하철-도쿄지하철-도쿄_3.webp)
+![도쿄 도심 철도와 도시 이동](tokyo-urban-rail.webp)
 
 <a href="/posts/일본-지하철-노선도-모음-노선도-보는법/" style="display:grid;grid-template-columns:minmax(0,1fr) 150px;gap:12px;align-items:center;overflow:hidden;border:1px solid #3b82f6;border-radius:8px;background:#111827;padding:10px 12px;margin:16px 0;color:#f9fafb;text-decoration:none;">
   <span>
@@ -228,7 +228,7 @@ PDF는 저장해두기 좋지만, 실제 이동 중에는 앱이나 지도 서�
 
 공항에서 시내로 들어온 뒤에는 지하철로 갈아타는 경우가 많습니다. 그래서 공항 이동은 공항철도 공식 안내나 지도 앱으로 먼저 보고, 시내 안에서 움직일 때 도쿄 지하철 노선도를 보는 식으로 역할을 나누면 됩니다.
 
-![도쿄 지하철 플랫폼 안전요원과 열차](도교지하철-도쿄지하철-도쿄_2.webp)
+![도쿄 지하철 플랫폼 안전요원과 열차](tokyo-subway-platform-staff.webp)
 
 <a href="/posts/한국에서-일본-가는-직항-노선-정리/" style="display:grid;grid-template-columns:minmax(0,1fr) 150px;gap:12px;align-items:center;overflow:hidden;border:1px solid #3b82f6;border-radius:8px;background:#111827;padding:10px 12px;margin:16px 0;color:#f9fafb;text-decoration:none;">
   <span>
