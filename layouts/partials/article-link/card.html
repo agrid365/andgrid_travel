@@ -1,3 +1,12 @@
+{{ $page := . }}
+{{ $eager := false }}
+{{ $priority := "auto" }}
+{{ if reflect.IsMap . }}
+  {{ $page = .page }}
+  {{ $eager = .eager | default false }}
+  {{ if .priority }}{{ $priority = .priority }}{{ end }}
+{{ end }}
+{{ with $page }}
 {{ $disableImageOptimization := .Page.Site.Params.disableImageOptimization | default false }}
 {{ with .Params.externalUrl }}
 <a href="{{ . }}" target="_blank" rel="external" class="min-w-full">
@@ -6,7 +15,7 @@
     {{ end }}
     <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
 
-      {{- $images := $.Resources.ByType "image" -}}
+      {{- $images := .Resources.ByType "image" -}}
       {{- $featured := $images.GetMatch "*feature*" -}}
       {{- if not $featured }}{{ $featured = $images.GetMatch "{*cover*,*thumbnail*}" }}{{ end -}}
       {{- $featuredURL := "" -}}
@@ -20,20 +29,34 @@
       {{ end }}
       {{- if not $featured }}{{ with .Site.Params.defaultFeaturedImage }}{{ $featured = resources.Get . }}{{ end }}{{ end -}}
       {{ if .Params.hideFeatureImage }}{{ $featured = false }}{{ end }}
-      {{- if $featuredURL -}}
-      <div class="w-full thumbnail_card nozoom" style="background-image:url({{ $featuredURL }});"></div>
-      {{- else -}}
+      {{ $srcset := "" }}
+      {{ $width := 600 }}
+      {{ $height := 400 }}
       {{- with $featured -}}
-      {{ if or $disableImageOptimization (strings.HasSuffix $featured ".svg")}}
-        {{ with . }}
-        <div class="w-full thumbnail_card nozoom" style="background-image:url({{ .RelPermalink }});"></div>
+      {{ if or $disableImageOptimization (eq .MediaType.SubType "svg+xml") }}
+        {{ $featuredURL = .RelPermalink }}
+        {{ if ne .MediaType.SubType "svg+xml" }}
+          {{ $width = .Width }}
+          {{ $height = .Height }}
         {{ end }}
       {{ else }}
-        {{ with .Resize "600x" }}
-        <div class="w-full thumbnail_card nozoom" style="background-image:url({{ .RelPermalink }});"></div>
-        {{ end }}
+        {{ $small := .Resize "360x webp" }}
+        {{ $large := .Resize "600x webp" }}
+        {{ $featuredURL = $large.RelPermalink }}
+        {{ $width = $large.Width }}
+        {{ $height = $large.Height }}
+        {{ $srcset = printf "%s 360w, %s 600w" $small.RelPermalink $large.RelPermalink }}
       {{ end }}
       {{- end -}}
+      {{- if $featuredURL -}}
+      <img class="w-full thumbnail_card nozoom"
+        src="{{ $featuredURL }}"
+        {{ with $srcset }}srcset="{{ . }}" sizes="(min-width: 768px) 330px, (min-width: 640px) calc((100vw - 128px) / 2), calc(100vw - 52px)"{{ end }}
+        width="{{ $width }}" height="{{ $height }}"
+        alt="{{ .Title }}"
+        loading="{{ if $eager }}eager{{ else }}lazy{{ end }}"
+        fetchpriority="{{ $priority }}"
+        decoding="async">
       {{- end -}}
 
     {{ if and .Draft .Site.Params.article.showDraftLabel }}
@@ -48,7 +71,7 @@
         <div>
           <div
             class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">
-            {{ $.Title | emojify }}
+            {{ $page.Title | emojify }}
             <span class="text-xs align-top cursor-default text-neutral-400 dark:text-neutral-500">
               <span class="rtl:hidden">&#8599;</span>
               <span class="ltr:hidden">&#8598;</span>
@@ -77,3 +100,4 @@
     <div class="px-6 pt-4 pb-2"></div>
   </div>
 </a>
+{{ end }}

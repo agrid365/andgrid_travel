@@ -1,10 +1,13 @@
 {{ if not hugo.IsServer }}
-<script type="text/javascript" src="//wcs.pstatic.net/wcslog.js"></script>
 <script type="text/javascript">
-  if (!wcs_add) var wcs_add = {};
-  wcs_add["wa"] = "1bf2caa7655bb70";
-  if (window.wcs) {
-    wcs_do();
-  }
+  window.wcs_add = window.wcs_add || {};
+  window.wcs_add.wa = "1bf2caa7655bb70";
+  var naverAnalytics = document.createElement('script');
+  naverAnalytics.src = 'https://wcs.pstatic.net/wcslog.js';
+  naverAnalytics.async = true;
+  naverAnalytics.onload = function () {
+    if (window.wcs) wcs_do();
+  };
+  document.body.appendChild(naverAnalytics);
 </script>
 {{ end }}

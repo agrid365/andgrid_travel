@@ -1,3 +1,11 @@
+.thumbnail_card {
+  display: block;
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+}
+
 #search-button,
 #search-button-mobile,
 #search-button-floating {

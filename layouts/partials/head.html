@@ -17,13 +17,6 @@
   <meta name="theme-color">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3468174357960597"
      crossorigin="anonymous"></script>
-  <script type="text/javascript">
-    (function(c,l,a,r,i,t,y){
-        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-    })(window, document, "clarity", "script", "sgr7nundxl");
-  </script>
   <meta name="naver-site-verification" content="c9d7046bb1864a904096f1601fe2165aec3ef758" />
   <meta name="google-adsense-account" content="ca-pub-3468174357960597">
 
@@ -58,6 +51,7 @@
   {{ end -}}
 
   {{/* Asset bundles */}}
+  {{ $enableImageZoom := and .IsPage (not (.Site.Params.disableImageZoom | default false)) }}
   {{ $assets := newScratch }}
   {{ $cssScheme := resources.Get (printf "css/schemes/%s.css" (.Site.Params.colorScheme | default "blowfish")) }}
   {{ if not $cssScheme }}
@@ -70,25 +64,23 @@
   {{ if $cssCustom }}
     {{ $assets.Add "css" (slice $cssCustom) }}
   {{ end }}
-  {{ if not .Site.Params.disableImageZoom | default true }}
+  {{ if $enableImageZoom }}
     {{ $cssZoom := resources.Get "lib/zoom/style.css" }}
     {{ $assets.Add "css" (slice $cssZoom) }}
   {{ end }}
   {{ $bundleCSS := $assets.Get "css" | resources.Concat "css/main.bundle.css" | resources.Minify | resources.Fingerprint
     (.Site.Params.fingerprintAlgorithm | default "sha512")
   }}
+  {{/* Set the theme before paint without a blocking script request. */}}
+  {{ $jsAppearance := resources.Get "js/appearance.js" }}
+  {{ $jsAppearance = $jsAppearance | resources.ExecuteAsTemplate "js/appearance.js" . | resources.Minify }}
+  <script>{{ $jsAppearance.Content | safeJS }}</script>
   <link
     type="text/css"
     rel="stylesheet"
     href="{{ $bundleCSS.RelPermalink }}"
     integrity="{{ $bundleCSS.Data.Integrity }}">
 
-  {{ $jsAppearance := resources.Get "js/appearance.js" }}
-  {{ $jsAppearance = $jsAppearance | resources.ExecuteAsTemplate "js/appearance.js" . | resources.Minify | resources.Fingerprint (.Site.Params.fingerprintAlgorithm | default "sha512") }}
-  <script
-    type="text/javascript"
-    src="{{ $jsAppearance.RelPermalink }}"
-    integrity="{{ $jsAppearance.Data.Integrity }}"></script>
   {{ if .Site.Params.enableSearch | default false }}
     {{ $jsFuse := resources.Get "lib/fuse/fuse.min.js" }}
     {{ $jsSearch := resources.Get "js/search.js" }}
@@ -122,9 +114,9 @@
       data-copy="{{ i18n "code.copy" }}"
       data-copied="{{ i18n "code.copied" }}"></script>
   {{ end }}
-  {{ if not .Site.Params.disableImageZoom | default true }}
+  {{ if $enableImageZoom }}
     {{ $zoomJS := resources.Get "lib/zoom/zoom.min.umd.js" | resources.Fingerprint (.Site.Params.fingerprintAlgorithm | default "sha512") }}
-    <script src="{{ $zoomJS.RelPermalink }}" integrity="{{ $zoomJS.Data.Integrity }}"></script>
+    <script defer src="{{ $zoomJS.RelPermalink }}" integrity="{{ $zoomJS.Data.Integrity }}"></script>
   {{ end }}
 
   {{/* Icons */}}
