@@ -2,21 +2,18 @@
 title: "교토 버스 1일권 폐지됐나? 지하철·버스 패스와 대체 이동법"
 date: 2026-10-02T14:20:00+09:00
 lastmod: 2026-10-07T00:00:00+09:00
-draft: false
+draft: true
 description: "교토 버스 1일권은 2023년 판매가 끝났지만 지하철·버스 1일권은 계속 판매 중입니다. 현재 패스 가격과 이용 범위, 버스 혼잡을 줄이는 전철·도보 이동 팁을 정리했습니다."
 categories: ["일본여행", "교통", "여행준비"]
 tags: ["교토버스1일권", "교토오버투어리즘", "교토교통", "교토버스", "교토여행주의사항"]
 showDateUpdated: true
 images:
-  - featured.webp
   - kyoto-bus-stop.webp
   - kyoto-rail-platform.webp
   - kiyomizu-temple.webp
   - kyoto-luggage-lockers.webp
   - gion-respectful-walk.webp
 carousel:
-  - name: "교토 버스 1일권 폐지와 지하철·버스 대체 이동법"
-    image: "featured.webp"
   - name: "교토 버스 혼잡과 버스 1일권 폐지 배경"
     image: "kyoto-bus-stop.webp"
   - name: "교토 버스 혼잡을 줄이는 전철 이동"
@@ -41,8 +38,6 @@ carousel:
 | 지하철·버스 1일권 | 판매 중 | 성인 1,100엔, 어린이 550엔. 적용 노선과 구간은 공식 안내에서 확인 |
 | IC카드 | 이용 가능 | 패스 가격을 넘길 만큼 타지 않는 날에는 이용한 만큼 결제하는 편이 단순할 수 있음 |
 
-가격과 적용 구간은 2026년 10월 7일 교토시 교통국 공식 안내를 확인했습니다. 실제 이용 전에는 공식 사이트에서 최신 조건을 다시 확인하세요.
-
 교토시 교통국은 버스 이용객을 지하철로 분산해 혼잡을 줄이려고 버스 1일권을 폐지했다고 설명합니다. 버스 전용권은 없어졌지만, **지하철·버스 통합 1일권은 계속 판매 중입니다.**
 
 {{< figure src="kyoto-bus-stop.webp" alt="교토 시내버스 정류장에 승객이 줄을 서서 버스를 기다리는 AI 생성 예시 이미지" caption="AI 생성 이미지 · 특정 날짜나 정류장의 실제 혼잡 상황을 촬영한 사진은 아닙니다." >}}
@@ -54,13 +49,6 @@ carousel:
 하루에 여러 번 버스와 지하철을 오가거나 적용 구간 안에서 여러 장소를 방문한다면 후보가 될 수 있습니다. 반대로 한두 번만 이동하거나 사철을 주로 탈 일정이라면 IC카드와 개별 승차권이 더 간편할 수 있습니다. 출발 전에 방문지와 승차 횟수를 정한 다음, 패스 가격과 적용 범위를 비교해 보세요.
 
 후시미이나리와 기온은 게이한·JR·한큐 등 이용하는 노선에 따라 가까운 역이 달라집니다. 이 철도 노선은 지하철·버스 1일권에 포함되지 않으니, 패스를 고르기 전에 이동 경로와 운영 회사를 확인하세요.
-
-도시별 지하철 노선도와 역 번호·환승 표시를 먼저 확인하려면 아래 정리도 참고할 수 있습니다.
-
-<a href="/posts/일본-지하철-노선도-모음-노선도-보는법/" style="display:grid;grid-template-columns:minmax(0,1fr) 150px;gap:12px;align-items:center;overflow:hidden;border:1px solid #3b82f6;border-radius:8px;background:#111827;padding:10px 12px;margin:16px 0;color:#f9fafb;text-decoration:none;">
-  <span><strong style="display:block;color:#60a5fa;line-height:1.35;font-size:1rem;text-decoration:underline;">일본 지하철 노선도 모음 노선도 보는법｜도쿄·오사카·후쿠오카 역 번호와 환승 정리</strong></span>
-  <img src="/posts/일본-지하철-노선도-모음-노선도-보는법/featured.webp" alt="일본 주요 도시 지하철 노선도 안내 글 썸네일" style="display:block;width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:6px;">
-</a>
 
 ## 교토 오버투어리즘과 버스 혼잡
 
@@ -97,12 +85,7 @@ carousel:
 
 {{< figure src="gion-respectful-walk.webp" alt="기온의 전통 목조 건물 사이를 조용히 걷는 여행객의 AI 생성 이미지" caption="AI 생성 이미지 · 주민의 사생활과 통행을 존중하며 관광하는 모습을 표현했습니다." >}}
 
-일본 대중교통에서 지켜야 할 예절과 촬영 규칙은 아래 글에서 확인할 수 있습니다.
-
-<a href="/posts/일본-여행-주의사항-문화-예절/" style="display:grid;grid-template-columns:minmax(0,1fr) 150px;gap:12px;align-items:center;overflow:hidden;border:1px solid #3b82f6;border-radius:8px;background:#111827;padding:10px 12px;margin:16px 0;color:#f9fafb;text-decoration:none;">
-  <span><strong style="display:block;color:#60a5fa;line-height:1.35;font-size:1rem;text-decoration:underline;">일본 여행 주의사항 총정리｜초보자가 놓치기 쉬운 교통·촬영·온천 예절</strong></span>
-  <img src="/posts/일본-여행-주의사항-문화-예절/featured.webp" alt="일본 여행 교통·촬영·온천 예절 글 썸네일" style="display:block;width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:6px;">
-</a>
+일본 대중교통과 촬영 예절은 [일본 여행 주의사항 총정리｜초보자가 놓치기 쉬운 교통·촬영·온천 예절](/posts/일본-여행-주의사항-문화-예절/)에도 정리해 두었습니다.
 
 ## 교토 이동 전 체크할 것
 
@@ -139,31 +122,9 @@ carousel:
 
 ## 공식 안내
 
-<div style="border:1px solid #374151;border-radius:8px;background:#111827;margin:18px 0;overflow:hidden;">
-  <a href="https://www.city.kyoto.lg.jp/kotsu/page/0000028378.html" target="_blank" rel="noopener noreferrer" style="display:grid;grid-template-columns:1fr auto;gap:12px;padding:14px 16px;border-bottom:1px solid #374151;color:#f9fafb;text-decoration:none;">
-    <span><strong style="display:block;color:#f9fafb;">교토시 교통국 지하철·버스 1일권</strong><span style="display:block;color:#cbd5e1;margin-top:6px;font-size:0.92rem;">현재 가격과 이용 가능 노선·구간 확인</span></span><span style="color:#60a5fa;font-weight:900;">↗</span>
-  </a>
-  <a href="https://www.city.kyoto.lg.jp/kotsu/page/0000309762.html" target="_blank" rel="noopener noreferrer" style="display:grid;grid-template-columns:1fr auto;gap:12px;padding:14px 16px;border-bottom:1px solid #374151;color:#f9fafb;text-decoration:none;">
-    <span><strong style="display:block;color:#f9fafb;">교토시 교통국 버스 1일권 판매 종료 안내</strong><span style="display:block;color:#cbd5e1;margin-top:6px;font-size:0.92rem;">판매 종료일과 기존권 이용 종료일 확인</span></span><span style="color:#60a5fa;font-weight:900;">↗</span>
-  </a>
-  <a href="https://kyoto.travel/en/luggage-services/" target="_blank" rel="noopener noreferrer" style="display:grid;grid-template-columns:1fr auto;gap:12px;padding:14px 16px;border-bottom:1px solid #374151;color:#f9fafb;text-decoration:none;">
-    <span><strong style="display:block;color:#f9fafb;">교토 공식 관광 안내 짐 보관·배송 서비스</strong><span style="display:block;color:#cbd5e1;margin-top:6px;font-size:0.92rem;">코인라커와 숙소 배송을 포함한 핸즈프리 관광 안내</span></span><span style="color:#60a5fa;font-weight:900;">↗</span>
-  </a>
-  <a href="https://kyoto.travel/en/areas/gion-kiyomizu/" target="_blank" rel="noopener noreferrer" style="display:grid;grid-template-columns:1fr auto;gap:12px;padding:14px 16px;color:#f9fafb;text-decoration:none;">
-    <span><strong style="display:block;color:#f9fafb;">교토 공식 관광 안내 기온·청수사 지역 정보</strong><span style="display:block;color:#cbd5e1;margin-top:6px;font-size:0.92rem;">지역별 관광 정보와 방문 안내</span></span><span style="color:#60a5fa;font-weight:900;">↗</span>
-  </a>
-</div>
+- [교토시 교통국: 지하철·버스 1일권](https://www.city.kyoto.lg.jp/kotsu/page/0000028378.html)
+- [교토시 교통국: 버스 1일권 폐지 안내](https://www.city.kyoto.lg.jp/kotsu/page/0000284803.html)
+- [교토 공식 관광 안내: 짐 보관·배송 서비스](https://kyoto.travel/en/luggage-services/)
+- [교토 공식 관광 안내: 기온·청수사 지역의 혼잡 및 방문 팁](https://kyoto.travel/en/areas/gion-kiyomizu/)
 
-<div style="border:1px solid #374151;border-radius:8px;background:#111827;margin:18px 0;padding:16px;">
-  <strong style="display:block;color:#f9fafb;margin-bottom:12px;">관련해서 바로 보기</strong>
-  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:14px;margin:0;">
-    <a href="/posts/일본-지하철-노선도-모음-노선도-보는법/" style="display:block;color:#f9fafb;text-decoration:none;">
-      <img src="/posts/일본-지하철-노선도-모음-노선도-보는법/featured.webp" alt="일본 지하철 노선도 모음 글 썸네일" style="display:block;width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:6px;">
-      <strong style="display:block;color:#f9fafb;margin-top:8px;line-height:1.35;">일본 지하철 노선도 모음 노선도 보는법｜도쿄·오사카·후쿠오카 역 번호와 환승 정리</strong>
-    </a>
-    <a href="/posts/일본-여행-주의사항-문화-예절/" style="display:block;color:#f9fafb;text-decoration:none;">
-      <img src="/posts/일본-여행-주의사항-문화-예절/featured.webp" alt="일본 여행 주의사항 글 썸네일" style="display:block;width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:6px;">
-      <strong style="display:block;color:#f9fafb;margin-top:8px;line-height:1.35;">일본 여행 주의사항 총정리｜초보자가 놓치기 쉬운 교통·촬영·온천 예절</strong>
-    </a>
-  </div>
-</div>
+<!-- HUMANIZE-SUMMARY v2.0.0 original_chars=5443 rewritten_chars=5286 change_rate=6.7% risk_band=medium findings_before=6 findings_after=0 self_check=6/6 grade=B highlights="교통편을 검색하다 보면→교통편을 찾다 보면; 따라서 설명을 평서로 정리; 버스만 연결하지 않는다는 문장을 자연스럽게 정리; 결론에서 같은 폐지 날짜 반복 축약" residual="블로그 정보글의 설명형 종결과 표·목록 구조는 장르 특성상 유지" -->
