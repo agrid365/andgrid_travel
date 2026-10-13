@@ -1,13 +1,38 @@
 ---
-title: "나리타공항 하네다공항 차이｜도쿄 입국 공항 선택과 시내 이동 비교"
+title: "나리타 vs 하네다 항공권 가격 2배 차이? 도쿄 입국 공항 선택법"
 date: 2026-09-29T18:00:00+09:00
-lastmod: 2026-09-29T18:00:00+09:00
+lastmod: 2026-10-12T00:00:00+09:00
 draft: true
 description: "도쿄 여행에서 나리타공항과 하네다공항 중 어디로 입국하면 좋은지, 입국 절차와 도쿄 시내 이동 방법, 숙소 위치별 선택 기준을 정리합니다."
 categories: ["일본여행", "교통"]
 tags: ["나리타공항", "하네다공항", "도쿄공항", "도쿄입국", "나리타하네다차이", "도쿄시내이동", "일본공항"]
 showDateUpdated: true
+images:
+  - featured.webp
+  - gonghang-dokyo.webp
+  - gonghang-geotneun.webp
+  - haneda-haneda-gonghang.webp
+  - uija-jwaseok.webp
+  - narita-airfare-price-grid.webp
+  - haneda-airfare-price-grid.webp
+carousel:
+  - name: "도쿄 공항에서 항공편 정보를 확인하는 여행자"
+    image: "featured.webp"
+  - name: "공항 터미널 창밖의 항공기와 활주로"
+    image: "gonghang-dokyo.webp"
+  - name: "짐을 들고 공항 터미널을 이동하는 여행객"
+    image: "gonghang-geotneun.webp"
+  - name: "공항 활주로에서 출발을 기다리는 ANA 항공기"
+    image: "haneda-haneda-gonghang.webp"
+  - name: "공항 대기 좌석"
+    image: "uija-jwaseok.webp"
+  - name: "나리타 도착 항공권 가격 비교 화면"
+    image: "narita-airfare-price-grid.webp"
+  - name: "하네다 도착 항공권 가격 비교 화면"
+    image: "haneda-airfare-price-grid.webp"
 ---
+
+**이 콘텐츠에는 수수료를 지급받는 제휴링크가 포함되어 있습니다.**
 
 도쿄 여행 항공권을 찾다 보면 같은 도쿄라도 `나리타공항`과 `하네다공항`이 따로 나옵니다. 항공권 가격만 보면 나리타가 더 좋아 보일 때가 있고, 이동 시간만 보면 하네다가 편해 보일 때가 많습니다.
 
@@ -15,7 +40,7 @@ showDateUpdated: true
 
 이 글에서는 도쿄 입국 때 나리타공항과 하네다공항 중 어디가 더 나은지, 입국 절차와 시내 이동 기준으로 정리했습니다.
 
-<!-- 이미지 후보: 나리타공항·하네다공항 비교 썸네일. 왼쪽은 항공기/공항, 오른쪽은 도쿄 시내 철도 노선 느낌. 텍스트는 "나리타 vs 하네다" 정도로 짧게. -->
+{{< figure src="gonghang-dokyo.webp" alt="공항 터미널 창밖으로 보이는 항공기와 활주로" caption="공항을 고를 때는 도착 공항뿐 아니라 항공편과 터미널도 함께 확인하세요." >}}
 
 ## 한 줄 답변
 
@@ -36,6 +61,8 @@ showDateUpdated: true
 ## 입국 절차는 공항보다 도착 시간대가 더 중요하다
 
 나리타와 하네다 모두 일본 입국 절차의 큰 흐름은 비슷합니다.
+
+{{< figure src="gonghang-geotneun.webp" alt="캐리어를 끌고 공항 터미널을 이동하는 여행객들" caption="입국 수속 뒤에는 수하물을 찾고 공항철도나 버스 승강장까지 이동하게 됩니다." >}}
 
 1. 항공기 도착
 2. 검역·입국 관련 안내 확인
@@ -74,6 +101,14 @@ showDateUpdated: true
 
 숙소가 우에노나 닛포리라면 스카이라이너가 단순합니다. 신주쿠, 시부야, 도쿄역, 요코하마처럼 JR 주요 역이 목적지라면 나리타 익스프레스를 검토할 만합니다. 아사쿠사나 긴자 방면은 Access Express나 도에이 아사쿠사선 연계가 편할 수 있지만, 시간대에 따라 환승 여부가 달라질 수 있으므로 이동 당일 검색이 필요합니다.
 
+<div style="border:1px solid #3b82f6;border-radius:8px;background:#111827;margin:18px 0;overflow:hidden;">
+  <div style="padding:14px 16px;">
+    <strong style="display:block;color:#f9fafb;line-height:1.4;">나리타공항에서 도쿄 시내로 이동한다면</strong>
+    <span style="display:block;color:#cbd5e1;margin-top:5px;font-size:0.92rem;">스카이라이너와 도쿄 지하철 티켓 상품의 이용 조건을 확인해보세요.</span>
+    <a href="https://3ha.in/r/786601" target="_blank" rel="sponsored noopener noreferrer" style="display:inline-block;margin-top:12px;padding:8px 12px;border-radius:6px;background:#2563eb;color:#fff;font-weight:700;text-decoration:none;">스카이라이너·지하철 티켓 보기 ↗</a>
+  </div>
+</div>
+
 <div style="border:1px solid #374151;border-radius:8px;background:#111827;margin:18px 0;overflow:hidden;">
   <a href="https://www.narita-airport.jp/en/access/" target="_blank" rel="noopener noreferrer" style="display:grid;grid-template-columns:1fr auto;gap:12px;padding:14px 16px;border-bottom:1px solid #374151;color:#f9fafb;text-decoration:none;">
     <span>
@@ -95,6 +130,8 @@ showDateUpdated: true
 
 하네다공항은 도쿄 도심 접근성이 좋은 편입니다. 대표 이동수단은 `게이큐선`, `도쿄모노레일`, 공항버스입니다.
 
+{{< figure src="haneda-haneda-gonghang.webp" alt="공항 활주로에서 출발을 기다리는 ANA 항공기" caption="항공권을 예약한 뒤에는 실제 이용 공항과 도착 터미널을 예약 내역에서 확인하세요." >}}
+
 | 이동수단 | 잘 맞는 목적지 | 특징 |
 |---|---|---|
 | 게이큐선 | 시나가와, 아사쿠사선 연계 지역 | 도에이 아사쿠사선과 이어지는 경로 확인 가능 |
@@ -105,6 +142,14 @@ showDateUpdated: true
 하네다공항 공식 안내에 따르면 하네다공항은 게이큐선과 도쿄모노레일에 직접 연결되어 있습니다. 도착 후 숙소가 시나가와, 긴자, 아사쿠사, 하마마쓰초, 도쿄역, 신주쿠 중 어디인지에 따라 더 편한 노선이 달라집니다.
 
 시나가와 쪽은 게이큐선이 단순하고, 하마마쓰초에서 JR로 갈아탈 계획이라면 도쿄모노레일을 볼 수 있습니다. 아사쿠사나 긴자 방면은 게이큐선과 도에이 아사쿠사선 연계를 확인하면 좋습니다. 신주쿠나 시부야는 전철 환승도 가능하지만, 짐이 많다면 버스도 비교할 만합니다.
+
+<div style="border:1px solid #3b82f6;border-radius:8px;background:#111827;margin:18px 0;overflow:hidden;">
+  <div style="padding:14px 16px;">
+    <strong style="display:block;color:#f9fafb;line-height:1.4;">하네다공항에서 버스로 이동할 계획이라면</strong>
+    <span style="display:block;color:#cbd5e1;margin-top:5px;font-size:0.92rem;">리무진 버스 노선과 QR 코드 탑승권의 이용 조건을 확인해보세요.</span>
+    <a href="https://3ha.in/r/786605" target="_blank" rel="sponsored noopener noreferrer" style="display:inline-block;margin-top:12px;padding:8px 12px;border-radius:6px;background:#2563eb;color:#fff;font-weight:700;text-decoration:none;">하네다 리무진 버스 보기 ↗</a>
+  </div>
+</div>
 
 <div style="border:1px solid #374151;border-radius:8px;background:#111827;margin:18px 0;overflow:hidden;">
   <a href="https://tokyo-haneda.com/en/access/train/index.html" target="_blank" rel="noopener noreferrer" style="display:grid;grid-template-columns:1fr auto;gap:12px;padding:14px 16px;color:#f9fafb;text-decoration:none;">
@@ -134,7 +179,15 @@ showDateUpdated: true
 
 ## 항공권이 싸다고 무조건 좋은 것은 아니다
 
-나리타 도착 항공권이 하네다보다 저렴하게 나올 때가 있습니다. 하지만 공항에서 숙소까지 이동하는 비용과 시간을 더하면 차이가 줄어들 수 있습니다.
+한국 출발 도쿄행 항공권은 대체로 나리타행이 하네다행보다 저렴한 편입니다. 나리타행은 LCC와 특가 운임을 비교하기 쉬워 가격 차이가 크게 벌어지기도 합니다. 다만 출발 날짜와 시간, 항공사, 위탁 수하물 포함 여부에 따라 달라지므로 같은 조건으로 비교해야 합니다. 공항에서 숙소까지 드는 이동 비용과 시간도 함께 계산해보세요.
+
+서울 출발 도쿄행 왕복 항공권을 조회한 가격 캘린더에서 **10월 1일 출발·10월 6일 도착** 조합을 비교했습니다. 당시 나리타행은 **₩397,209**, 하네다행은 **₩775,400**으로 표시됐습니다. 같은 날짜 기준 하네다행이 약 **1.95배**, 금액으로는 **₩378,191** 더 높았습니다. 이 조회에서는 나리타행이 확실히 저렴했습니다.
+
+{{< figure src="narita-airfare-price-grid.webp" alt="서울 출발 도쿄행 왕복 항공권 가격 캘린더에서 10월 1일 출발·10월 6일 도착 나리타행 ₩397,209 확인" caption="나리타행: 10월 1일 출발·10월 6일 도착 왕복 ₩397,209로 조회됐습니다." >}}
+
+{{< figure src="haneda-airfare-price-grid.webp" alt="서울 출발 도쿄행 왕복 항공권 가격 캘린더에서 10월 1일 출발·10월 6일 도착 하네다행 ₩775,400 확인" caption="하네다행: 같은 날짜 조합의 왕복 운임은 ₩775,400으로 조회됐습니다." >}}
+
+항공권 가격은 조회 시점과 잔여 좌석, 운임 조건에 따라 달라질 수 있습니다. 예약할 때는 같은 날짜와 수하물 조건으로 두 공항의 최종 결제 금액을 비교하세요.
 
 특히 첫날 일정이 짧거나, 밤 늦게 도착하거나, 아이와 함께 이동하거나, 캐리어가 많다면 이동 난이도가 중요합니다. 저렴한 항공권을 고르기 전에 아래를 같이 확인하는 것이 좋습니다.
 
@@ -151,6 +204,8 @@ showDateUpdated: true
 ## 도쿄 입국 전 준비 체크리스트
 
 도쿄 입국 전에는 공항 선택보다 기본 준비가 더 중요할 때가 많습니다.
+
+{{< figure src="uija-jwaseok.webp" alt="탑승객이 출발을 기다리는 공항 대기 좌석" caption="도착이 늦거나 환승을 기다리는 일정이라면 공항에서 머무는 시간도 고려해두세요." >}}
 
 | 준비 항목 | 확인할 내용 |
 |---|---|
@@ -193,22 +248,6 @@ showDateUpdated: true
   </span>
   <img src="/posts/일본-여행-도움-되는-사이트-모음/featured.webp" alt="일본 여행 사이트 모음" style="display:block;width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:6px;">
 </a>
-
-## 이 글에서 이어서 만들면 좋은 새 콘텐츠 후보
-
-도쿄 공항 글은 하나로 끝내기보다 아래 글들과 묶으면 검색 확장에 좋습니다.
-
-| 후보 글 | 노릴 키워드 | 방향 |
-|---|---|---|
-| 나리타공항에서 신주쿠 가는 법 | 나리타공항 신주쿠, 나리타 익스프레스 신주쿠 | N'EX, 버스, 스카이라이너+JR 비교 |
-| 나리타공항에서 우에노·아사쿠사 가는 법 | 나리타공항 우에노, 나리타공항 아사쿠사 | 스카이라이너, Access Express 중심 |
-| 하네다공항에서 신주쿠·시부야 가는 법 | 하네다공항 신주쿠, 하네다공항 시부야 | 게이큐, 모노레일, 버스 비교 |
-| 하네다공항에서 긴자·도쿄역 가는 법 | 하네다공항 긴자, 하네다공항 도쿄역 | 게이큐·도에이, 모노레일+JR 비교 |
-| 도쿄 공항 리무진버스 타는 법 | 도쿄 공항버스, 리무진버스 예약 | 짐 많은 여행자 대상 |
-| 나리타공항 하네다공항 환승 | 나리타 하네다 이동, 도쿄 공항 환승 | 공항 간 이동, 국내선·국제선 환승 주의 |
-| 도쿄 입국 첫날 일정 짜는 법 | 도쿄 첫날 일정, 공항 도착 후 일정 | 도착 시간대별 추천 동선 |
-
-우선순위는 `나리타공항에서 신주쿠 가는 법`, `하네다공항에서 신주쿠·시부야 가는 법`, `나리타공항에서 우에노·아사쿠사 가는 법` 순서가 좋아 보입니다. 검색량이 있고, 숙소 위치별 고민과 바로 연결되기 때문입니다.
 
 ## FAQ
 
