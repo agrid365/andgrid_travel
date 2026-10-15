@@ -1,7 +1,7 @@
 ---
 title: "교토 버스 1일권 폐지됐나? 지하철·버스 패스와 대체 이동법"
 date: 2026-10-02T14:20:00+09:00
-lastmod: 2026-10-07T00:00:00+09:00
+lastmod: 2026-10-15T00:00:00+09:00
 draft: false
 description: "교토 버스 1일권은 2023년 판매가 끝났지만 지하철·버스 1일권은 계속 판매 중입니다. 현재 패스 가격과 이용 범위, 버스 혼잡을 줄이는 전철·도보 이동 팁을 정리했습니다."
 categories: ["일본여행", "교통", "여행준비"]
@@ -9,24 +9,24 @@ tags: ["교토버스1일권", "교토오버투어리즘", "교토교통", "교�
 showDateUpdated: true
 images:
   - featured.webp
-  - kyoto-bus-stop.webp
-  - kyoto-rail-platform.webp
-  - kiyomizu-temple.webp
-  - kyoto-luggage-lockers.webp
-  - gion-respectful-walk.webp
+  - gyoto-ilbon.webp
+  - white-train.webp
+  - a-view-of-the-inside-of-a-public-transit-bus.webp
+  - selective-focus-photography-of-gray-metal-padlock.webp
+  - ilbon-gimono.webp
 carousel:
   - name: "교토 버스 1일권 폐지와 지하철·버스 대체 이동법"
     image: "featured.webp"
-  - name: "교토 버스 혼잡과 버스 1일권 폐지 배경"
-    image: "kyoto-bus-stop.webp"
-  - name: "교토 버스 혼잡을 줄이는 전철 이동"
-    image: "kyoto-rail-platform.webp"
-  - name: "청수사와 기요미즈고조역 도보 접근"
-    image: "kiyomizu-temple.webp"
-  - name: "교토 여행 캐리어 보관과 빈손 관광"
-    image: "kyoto-luggage-lockers.webp"
-  - name: "기온 거리에서 지켜야 할 여행 예절"
-    image: "gion-respectful-walk.webp"
+  - name: "교토 전통 거리 풍경"
+    image: "gyoto-ilbon.webp"
+  - name: "교토 시내를 지나는 게이한 전철"
+    image: "white-train.webp"
+  - name: "대중교통 버스 내부"
+    image: "a-view-of-the-inside-of-a-public-transit-bus.webp"
+  - name: "여행 가방용 다이얼 자물쇠"
+    image: "selective-focus-photography-of-gray-metal-padlock.webp"
+  - name: "기온 거리를 걷는 기모노 여행객"
+    image: "ilbon-gimono.webp"
 ---
 
 교토 교통편을 찾다 보면 예전 `교토 버스 1일권`을 추천하는 글이 아직 보입니다. 버스 전용권은 **2023년 9월 말 판매가 끝났고, 기존권도 2024년 3월 말까지만 사용할 수 있었습니다.**
@@ -45,7 +45,7 @@ carousel:
 
 교토시 교통국은 버스 이용객을 지하철로 분산해 혼잡을 줄이려고 버스 1일권을 폐지했다고 설명합니다. 버스 전용권은 없어졌지만, **지하철·버스 통합 1일권은 계속 판매 중입니다.**
 
-{{< figure src="kyoto-bus-stop.webp" alt="교토 시내버스 정류장에 승객이 줄을 서서 버스를 기다리는 AI 생성 예시 이미지" caption="AI 생성 이미지 · 특정 날짜나 정류장의 실제 혼잡 상황을 촬영한 사진은 아닙니다." >}}
+{{< figure src="gyoto-ilbon.webp" alt="교토 전통 거리의 목조 상점과 보행자" caption="교토 전통 거리 풍경. 관광지 주변은 시간대에 따라 보행자와 차량이 많을 수 있습니다." >}}
 
 ## 지금 판매하는 지하철·버스 1일권
 
@@ -68,7 +68,9 @@ carousel:
 
 교토에서 버스를 피할 필요까지는 없습니다. 다만 **하루 일정을 버스만으로 연결하지 않는 편**이 좋습니다. 가까운 역까지 철도로 이동해 걷거나, 같은 지역의 명소를 묶으면 버스 대기와 도로 정체에 덜 영향을 받습니다.
 
-{{< figure src="kyoto-rail-platform.webp" alt="교토 여행 중 버스 대신 전철을 이용하는 방법을 보여주는 AI 생성 플랫폼 이미지" caption="AI 생성 이미지 · 실제 특정 역이나 철도회사의 승강장을 재현한 사진은 아닙니다." >}}
+{{< figure src="a-view-of-the-inside-of-a-public-transit-bus.webp" alt="대중교통 버스 안에서 앞쪽 출입문과 운전석 방향을 바라본 모습" caption="버스 혼잡도는 노선과 시간대에 따라 달라질 수 있으므로 이동 시간에 여유를 두세요." >}}
+
+{{< figure src="white-train.webp" alt="교토 시내 철도 건널목을 지나는 게이한 전철" caption="버스 혼잡이 걱정된다면 목적지 주변 철도역과 도보 경로도 함께 확인해 보세요." >}}
 
 ## 관광지별 전철 접근 예시
 
@@ -79,8 +81,6 @@ carousel:
 | 청수사 | 게이한 기요미즈고조역에서 도보 이동 | 오르막길이 포함되므로 걷는 시간과 체력을 고려 |
 | 아라시야마 | JR 사가아라시야마역, 한큐 아라시야마역 등 | 관광지 위치에 따라 가장 가까운 역이 달라짐 |
 
-{{< figure src="kiyomizu-temple.webp" alt="교토 청수사 본당과 마당에 방문객이 있는 모습" caption="기요미즈데라 · 사진: Jordy Meow, CC BY-SA 3.0. [원본 및 라이선스](https://commons.wikimedia.org/wiki/File:Kiyomizu.jpg)" >}}
-
 철도가 모든 명소 앞까지 이어지는 것은 아닙니다. 역에서 한참 걷거나 오르막을 올라야 하는 곳도 있으니, 지도 앱에서 역과 관광지 사이의 도보 경로까지 살펴보세요. 버스가 편한 구간은 그대로 이용하고, 인기 노선의 대기 시간은 일정에 여유를 두면 좋습니다.
 
 ## 큰 짐은 관광 동선에서 빼기
@@ -89,13 +89,13 @@ carousel:
 
 교토에서 숙소를 옮기는 날에는 교토역이나 숙소에 짐을 맡길 수 있는지, 코인라커와 짐 배송을 이용할 수 있는지 알아보세요. 라커는 크기와 위치에 따라 빈자리가 없을 수 있어 다른 보관 장소도 함께 찾아두면 편합니다. 교토 공식 관광 안내에서도 짐 보관과 숙소 배송을 활용한 ‘핸즈프리 관광’을 소개합니다.
 
-{{< figure src="kyoto-luggage-lockers.webp" alt="일본 역 코인라커에 여행용 캐리어를 넣는 장면의 AI 생성 이미지" caption="AI 생성 이미지 · 라커의 위치와 크기, 이용 가능 여부는 역마다 다를 수 있습니다." >}}
+{{< figure src="selective-focus-photography-of-gray-metal-padlock.webp" alt="여행 가방을 잠글 때 사용하는 금속 다이얼 자물쇠" caption="짐을 맡길 때는 보관 장소와 이용 조건을 확인하고, 개인 소지품도 잘 챙기세요." >}}
 
 ## 기온에서는 생활 공간을 존중하기
 
 기온은 관광지인 동시에 주민이 생활하는 공간입니다. 사유지나 출입 제한 골목에 들어가지 말고, 현장 안내판과 촬영 규칙을 따르세요. 게이코·마이코를 따라가거나 허락 없이 촬영하고, 길을 막은 채 사진을 찍는 행동도 피해야 합니다.
 
-{{< figure src="gion-respectful-walk.webp" alt="기온의 전통 목조 건물 사이를 조용히 걷는 여행객의 AI 생성 이미지" caption="AI 생성 이미지 · 주민의 사생활과 통행을 존중하며 관광하는 모습을 표현했습니다." >}}
+{{< figure src="ilbon-gimono.webp" alt="교토 전통 거리에서 기모노를 입고 걷는 방문객" caption="관광객이 많이 찾는 거리에서도 주민의 사생활과 통행을 존중해 주세요." >}}
 
 일본 대중교통에서 지켜야 할 예절과 촬영 규칙은 아래 글에서 확인할 수 있습니다.
 
