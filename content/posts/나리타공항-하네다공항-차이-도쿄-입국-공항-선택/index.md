@@ -32,8 +32,6 @@ carousel:
     image: "haneda-airfare-price-grid.webp"
 ---
 
-**이 콘텐츠에는 수수료를 지급받는 제휴링크가 포함되어 있습니다.**
-
 도쿄 여행 항공권을 찾다 보면 같은 도쿄라도 `나리타공항`과 `하네다공항`이 따로 나옵니다. 항공권 가격만 보면 나리타가 더 좋아 보일 때가 있고, 이동 시간만 보면 하네다가 편해 보일 때가 많습니다.
 
 하지만 실제로는 공항 이름만 보고 고르기보다 `숙소 위치`, `도착 시간`, `수하물`, `첫날 일정`, `항공권 가격`을 같이 봐야 합니다. 나리타공항은 도쿄 도심에서 멀지만 항공편 선택지가 넓은 편이고, 하네다공항은 도심 접근성이 좋지만 항공권 가격과 노선 조건이 다를 수 있습니다.
@@ -101,14 +99,6 @@ carousel:
 
 숙소가 우에노나 닛포리라면 스카이라이너가 단순합니다. 신주쿠, 시부야, 도쿄역, 요코하마처럼 JR 주요 역이 목적지라면 나리타 익스프레스를 검토할 만합니다. 아사쿠사나 긴자 방면은 Access Express나 도에이 아사쿠사선 연계가 편할 수 있지만, 시간대에 따라 환승 여부가 달라질 수 있으므로 이동 당일 검색이 필요합니다.
 
-<div style="border:1px solid #3b82f6;border-radius:8px;background:#111827;margin:18px 0;overflow:hidden;">
-  <div style="padding:14px 16px;">
-    <strong style="display:block;color:#f9fafb;line-height:1.4;">나리타공항에서 도쿄 시내로 이동한다면</strong>
-    <span style="display:block;color:#cbd5e1;margin-top:5px;font-size:0.92rem;">스카이라이너와 도쿄 지하철 티켓 상품의 이용 조건을 확인해보세요.</span>
-    <a href="https://3ha.in/r/786601" target="_blank" rel="sponsored noopener noreferrer" style="display:inline-block;margin-top:12px;padding:8px 12px;border-radius:6px;background:#2563eb;color:#fff;font-weight:700;text-decoration:none;">스카이라이너·지하철 티켓 보기 ↗</a>
-  </div>
-</div>
-
 <div style="border:1px solid #374151;border-radius:8px;background:#111827;margin:18px 0;overflow:hidden;">
   <a href="https://www.narita-airport.jp/en/access/" target="_blank" rel="noopener noreferrer" style="display:grid;grid-template-columns:1fr auto;gap:12px;padding:14px 16px;border-bottom:1px solid #374151;color:#f9fafb;text-decoration:none;">
     <span>
@@ -142,14 +132,6 @@ carousel:
 하네다공항 공식 안내에 따르면 하네다공항은 게이큐선과 도쿄모노레일에 직접 연결되어 있습니다. 도착 후 숙소가 시나가와, 긴자, 아사쿠사, 하마마쓰초, 도쿄역, 신주쿠 중 어디인지에 따라 더 편한 노선이 달라집니다.
 
 시나가와 쪽은 게이큐선이 단순하고, 하마마쓰초에서 JR로 갈아탈 계획이라면 도쿄모노레일을 볼 수 있습니다. 아사쿠사나 긴자 방면은 게이큐선과 도에이 아사쿠사선 연계를 확인하면 좋습니다. 신주쿠나 시부야는 전철 환승도 가능하지만, 짐이 많다면 버스도 비교할 만합니다.
-
-<div style="border:1px solid #3b82f6;border-radius:8px;background:#111827;margin:18px 0;overflow:hidden;">
-  <div style="padding:14px 16px;">
-    <strong style="display:block;color:#f9fafb;line-height:1.4;">하네다공항에서 버스로 이동할 계획이라면</strong>
-    <span style="display:block;color:#cbd5e1;margin-top:5px;font-size:0.92rem;">리무진 버스 노선과 QR 코드 탑승권의 이용 조건을 확인해보세요.</span>
-    <a href="https://3ha.in/r/786605" target="_blank" rel="sponsored noopener noreferrer" style="display:inline-block;margin-top:12px;padding:8px 12px;border-radius:6px;background:#2563eb;color:#fff;font-weight:700;text-decoration:none;">하네다 리무진 버스 보기 ↗</a>
-  </div>
-</div>
 
 <div style="border:1px solid #374151;border-radius:8px;background:#111827;margin:18px 0;overflow:hidden;">
   <a href="https://tokyo-haneda.com/en/access/train/index.html" target="_blank" rel="noopener noreferrer" style="display:grid;grid-template-columns:1fr auto;gap:12px;padding:14px 16px;color:#f9fafb;text-decoration:none;">

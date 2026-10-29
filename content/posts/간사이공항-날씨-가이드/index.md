@@ -10,7 +10,6 @@ categories: ["일본여행", "날씨"]
 tags: ["간사이공항날씨", "오사카날씨", "교토날씨", "고베날씨", "항공기상청", "일본여행준비"]
 keywords: ["간사이공항 현재날씨", "간사이공항 풍속", "간사이공항 결항", "오사카 여행 날씨"]
 images: ["featured.webp"]
-affiliateDisclosure: "이 콘텐츠에는 수수료를 지급받는 제휴링크가 포함되어 있습니다."
 ---
 
 <style>
@@ -19,10 +18,6 @@ affiliateDisclosure: "이 콘텐츠에는 수수료를 지급받는 제휴링크
   .prose .kix-weather-links a:hover { background: #1e40af; color: #fff; }
   .prose .kix-weather-links a:focus-visible { outline: 3px solid #60a5fa; outline-offset: 3px; }
   .kix-weather-links small { display: block; font-size: 0.8rem; font-weight: 400; }
-  .kix-affiliate { margin: 20px 0; padding: 16px 0; border-top: 1px solid #9ca3af; border-bottom: 1px solid #9ca3af; }
-  .kix-affiliate p { margin: 0 0 8px; }
-  .prose .kix-affiliate a { display: block; min-height: 44px; padding: 10px 0; font-weight: 600; line-height: 1.6; text-decoration: underline; overflow-wrap: anywhere; }
-  .prose .kix-affiliate a:focus-visible { outline: 3px solid #60a5fa; outline-offset: 3px; }
   .kix-guide-related { display: grid; grid-template-columns: minmax(0, 1fr) 110px; gap: 12px; align-items: center; margin: 20px 0; padding: 12px; border: 1px solid #3b82f6; border-radius: 8px; background: #111827; }
   .prose a.kix-guide-related { color: #60a5fa; box-shadow: none; text-decoration: underline; }
   .kix-guide-related strong { min-width: 0; font-size: 1rem; line-height: 1.5; overflow-wrap: anywhere; }
@@ -107,12 +102,6 @@ affiliateDisclosure: "이 콘텐츠에는 수수료를 지급받는 제휴링크
 
 [오사카부 예보 보기 · 일본 기상청, 일본어](https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=270000). 날짜별 강수확률과 `大阪`의 기온을 확인하세요.
 
-<div class="kix-affiliate">
-  <p><strong>오사카 관광 패스를 알아보고 있다면</strong> · 클룩 제휴</p>
-  <p>방문할 시설을 정한 뒤 패스별 포함 시설과 교통 혜택을 비교하세요. 비 때문에 일정을 바꿀 수 있다면 시설 운영 여부와 티켓 취소·변경 조건도 살펴보세요.</p>
-  <a href="https://3ha.in/r/697612" target="_blank" rel="sponsored nofollow noopener noreferrer">오사카 주유패스·E-패스 가격과 이용 조건 보기 <span aria-hidden="true">↗</span></a>
-</div>
-
 ### 교토는 방문하는 날의 예보 확인 {#교토-방문-날짜의-예보를-따로-확인}
 
 ![교토 기요미즈데라의 목조 본당과 무대를 둘러싼 푸른 나무](kyoto.webp)
@@ -150,14 +139,6 @@ affiliateDisclosure: "이 콘텐츠에는 수수료를 지급받는 제휴링크
 비가 오는 날에는 공항에서 출발해 내릴 역만 정하지 말고 **역에서 숙소까지 얼마나 걸어야 하는지**도 보세요. 캐리어가 있다면 환승 횟수, 엘리베이터가 있는 출구, 숙소까지의 도보 구간을 함께 비교하면 좋습니다.
 
 [간사이공항 공식 교통 안내](https://www.kansai-airport.or.jp/kr/access/from-airport)에 전철·버스 등 이동 수단이 정리돼 있습니다. 기상 악화가 예상되면 시간표 외에 이용할 교통기관의 운행 공지도 보세요. 항공편 운항과 시내 교통편 운행은 별도로 살펴봐야 합니다.
-
-<div class="kix-affiliate">
-  <p><strong>공항 교통편 티켓 확인</strong> · 클룩 제휴</p>
-  <p>숙소에서 가까운 도착역·정류장과 이용 시간을 먼저 정한 뒤 티켓을 고르세요. 항공편 지연에 대비해 유효기간, 교환 방법, 취소·변경 조건도 확인하는 편이 좋습니다.</p>
-  <a href="https://3ha.in/r/697611" target="_blank" rel="sponsored nofollow noopener noreferrer">JR 하루카 공항 특급열차 편도 티켓 보기 <span aria-hidden="true">↗</span></a>
-  <a href="https://3ha.in/r/696213" target="_blank" rel="sponsored nofollow noopener noreferrer">오사카–간사이공항 리무진버스 티켓 보기 <span aria-hidden="true">↗</span></a>
-  <p>티켓 판매 여부와 실제 운행 여부는 다릅니다. 악천후에는 구매 전 운행 공지를 확인하세요.</p>
-</div>
 
 ### 늦은 도착·이른 출발이라면 숙박 위치 비교
 
